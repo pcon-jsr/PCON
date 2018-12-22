@@ -4,5 +4,10 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="drawer_item_workshop">Workshop</string>
+    <string name="drawer_item_otherEvents">Other Events</string>
+    <string name="drawer_item_notifications">Notifications</string>
+    <string name="drawer_item_pconMembers">PCON Members</string>
+    <string name="drawer_item_aboutPcon">About PCON</string>
+    <string name="drawer_item_techvistara">Techvistara</string>
 </resources>
